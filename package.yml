@@ -1,0 +1,7 @@
+name: Plugin Name
+author: scato
+category: Element
+tags: [events, element, effects, style]
+docs: http://www.toweljs.org/examples.html
+demo: http://www.toweljs.org/demo.html
+current: 0.1
