@@ -1,6 +1,6 @@
 name: Plugin Name
 author: scato
-category: Element
+category: Native
 tags: [events, element, effects, style]
 docs: http://www.toweljs.org/examples.html
 demo: http://www.toweljs.org/demo.html
