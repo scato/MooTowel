@@ -9,6 +9,7 @@ authors:
 
 provides: [Towel]
 
+...
 */
 
 var Towel = new Class({

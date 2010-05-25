@@ -13,6 +13,7 @@ requires:
 
 provides: [Towel.Period]
 
+...
 */
 
 Towel.Period = new Class({

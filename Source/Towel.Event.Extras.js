@@ -13,6 +13,7 @@ requires:
 
 provides: [Towel.Event.Extra]
 
+...
 */
 
 Towel.Event.Token = new Class({

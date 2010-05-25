@@ -13,6 +13,7 @@ requires:
 
 provides: [Towel.Period.Extra]
 
+...
 */
 
 Towel.Period.Phase = new Class({

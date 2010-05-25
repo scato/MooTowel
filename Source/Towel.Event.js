@@ -12,6 +12,7 @@ requires:
 
 provides: [Towel.Event]
 
+...
 */
 
 Towel.Event = new Class({

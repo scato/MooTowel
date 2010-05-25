@@ -18,6 +18,7 @@ requires:
 
 provides: [Towel.Helper]
 
+...
 */
 
 Towel.Helper = new Class({

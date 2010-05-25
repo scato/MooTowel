@@ -16,6 +16,7 @@ requires:
 
 provides: [Towel.Transition]
 
+...
 */
 
 Towel.Transition = new Class({

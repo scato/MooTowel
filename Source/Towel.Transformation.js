@@ -13,6 +13,7 @@ requires:
 
 provides: [Towel.Transformation]
 
+...
 */
 
 Towel.Transformation = new Class({
