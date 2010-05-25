@@ -1,5 +1,5 @@
 /*
----
+
 description: main Effect class and other Effect classes
 
 license: LGPL
