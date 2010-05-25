@@ -1,5 +1,5 @@
 /*
-
+---
 description: main Effect class and other Effect classes
 
 license: LGPL
@@ -13,6 +13,7 @@ requires:
 
 provides: [Towel.Effect]
 
+...
 */
 
 Towel.Effect = new Class({
